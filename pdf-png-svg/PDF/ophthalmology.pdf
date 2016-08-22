@@ -1,0 +1,205 @@
+%PDF-1.3
+3 0 obj
+<</Type /Page
+/Parent 1 0 R
+/Resources 2 0 R
+/MediaBox [0 0 32.00 32.00]
+/Contents 4 0 R
+>>
+endobj
+4 0 obj
+<</Length 1625>>
+stream
+0.20 w
+0 G
+18.699 18.774 m 
+17.978 19.495 17.019 19.891 16.000 19.891 c
+14.980 19.891 14.021 19.495 13.300 18.774 c
+12.581 18.051 12.184 17.094 12.184 16.074 c
+12.184 13.970 13.894 12.257 16.000 12.257 c
+17.018 12.257 17.977 12.655 18.699 13.375 c
+19.420 14.095 19.816 15.054 19.816 16.074 c
+19.816 17.094 19.420 18.051 18.699 18.774 c
+ h
+0.27 0.58 0.82 rg
+14.676 15.859 m 
+13.979 15.859 13.415 16.424 13.415 17.121 c
+13.415 17.818 13.979 18.383 14.676 18.383 c
+15.372 18.383 15.937 17.818 15.937 17.121 c
+15.937 16.424 15.372 15.859 14.676 15.859 c
+ h
+f
+0.27 0.58 0.82 rg
+18.886 21.553 m 
+20.849 20.517 22.193 18.456 22.193 16.086 c
+22.193 14.435 21.548 12.881 20.382 11.714 c
+19.912 11.245 19.382 10.866 18.806 10.574 c
+22.182 11.282 25.186 13.218 27.245 16.071 c
+25.203 18.902 22.229 20.832 18.886 21.553 c
+ h
+f
+0.27 0.58 0.82 rg
+9.826 16.086 m 
+9.826 17.737 10.470 19.290 11.639 20.458 c
+12.106 20.924 12.638 21.305 13.212 21.595 c
+9.777 20.913 6.714 18.966 4.625 16.071 c
+6.735 13.149 9.838 11.191 13.312 10.528 c
+12.701 10.825 12.135 11.220 11.640 11.714 c
+10.470 12.881 9.826 14.435 9.826 16.086 c
+ h
+f
+27.577 31.719 m 
+4.291 31.719 l
+2.009 31.719 0.153 29.862 0.153 27.580 c
+0.153 4.296 l
+0.153 2.014 2.010 0.157 4.291 0.157 c
+27.577 0.157 l
+29.859 0.157 31.715 2.014 31.715 4.296 c
+31.715 27.580 l
+31.715 29.862 29.859 31.719 27.577 31.719 c
+ h
+0.27 0.58 0.82 rg
+28.650 15.851 m 
+25.818 11.557 21.065 8.994 15.936 8.994 c
+10.806 8.994 6.052 11.557 3.219 15.849 c
+3.073 16.071 l
+3.219 16.293 l
+6.055 20.585 10.808 23.148 15.936 23.148 c
+21.065 23.148 25.818 20.585 28.650 16.293 c
+28.796 16.071 l
+28.650 15.851 l
+ h
+f
+endstream
+endobj
+1 0 obj
+<</Type /Pages
+/Kids [3 0 R ]
+/Count 1
+>>
+endobj
+5 0 obj
+<</BaseFont/Helvetica/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+6 0 obj
+<</BaseFont/Helvetica-Bold/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+7 0 obj
+<</BaseFont/Helvetica-Oblique/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+8 0 obj
+<</BaseFont/Helvetica-BoldOblique/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+9 0 obj
+<</BaseFont/Courier/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+10 0 obj
+<</BaseFont/Courier-Bold/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+11 0 obj
+<</BaseFont/Courier-Oblique/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+12 0 obj
+<</BaseFont/Courier-BoldOblique/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+13 0 obj
+<</BaseFont/Times-Roman/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+14 0 obj
+<</BaseFont/Times-Bold/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+15 0 obj
+<</BaseFont/Times-Italic/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+16 0 obj
+<</BaseFont/Times-BoldItalic/Type/Font
+/Encoding/StandardEncoding
+/Subtype/Type1>>
+endobj
+2 0 obj
+<<
+/ProcSet [/PDF /Text /ImageB /ImageC /ImageI]
+/Font <<
+/F1 5 0 R
+/F2 6 0 R
+/F3 7 0 R
+/F4 8 0 R
+/F5 9 0 R
+/F6 10 0 R
+/F7 11 0 R
+/F8 12 0 R
+/F9 13 0 R
+/F10 14 0 R
+/F11 15 0 R
+/F12 16 0 R
+>>
+/XObject <<
+>>
+>>
+endobj
+17 0 obj
+<<
+/Producer (jsPDF 1.0.0-trunk)
+/CreationDate (D:20160822163112-05'00')
+>>
+endobj
+18 0 obj
+<<
+/Type /Catalog
+/Pages 1 0 R
+/OpenAction [3 0 R /FitH null]
+/PageLayout /OneColumn
+>>
+endobj
+xref
+0 19
+0000000000 65535 f 
+0000001791 00000 n 
+0000003002 00000 n 
+0000000009 00000 n 
+0000000116 00000 n 
+0000001848 00000 n 
+0000001939 00000 n 
+0000002035 00000 n 
+0000002134 00000 n 
+0000002237 00000 n 
+0000002326 00000 n 
+0000002421 00000 n 
+0000002519 00000 n 
+0000002621 00000 n 
+0000002715 00000 n 
+0000002808 00000 n 
+0000002903 00000 n 
+0000003226 00000 n 
+0000003318 00000 n 
+trailer
+<<
+/Size 19
+/Root 18 0 R
+/Info 17 0 R
+>>
+startxref
+3422
+%%EOF
